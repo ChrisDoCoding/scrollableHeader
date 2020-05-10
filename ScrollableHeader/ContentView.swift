@@ -21,9 +21,9 @@ class ContentView: UIView {
     override init(frame: CGRect) {
         super.init(frame: frame)
     
+        initView()
         addSubviews()
         addSubviewConstraints()
-        initView()
         configureView()
     }
     
@@ -111,8 +111,8 @@ class ContentView: UIView {
     }
     
     func initView() {
-        
-
+        let viewModel = HeaderViewModel.init()
+        headerView.setView(viewModel)
     }
     
     func configureView() {

@@ -16,6 +16,7 @@
 		6B8EB39324667A5C00290272 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8EB39224667A5C00290272 /* ContentView.swift */; };
 		6B8EB39524667AA000290272 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8EB39424667AA000290272 /* HeaderView.swift */; };
 		6B8EB39724667E3600290272 /* HeaderItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8EB39624667E3600290272 /* HeaderItemCell.swift */; };
+		6B8EB3992467BEE800290272 /* HeaderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8EB3982467BEE800290272 /* HeaderViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		6B8EB39224667A5C00290272 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6B8EB39424667AA000290272 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		6B8EB39624667E3600290272 /* HeaderItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderItemCell.swift; sourceTree = "<group>"; };
+		6B8EB3982467BEE800290272 /* HeaderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderViewModel.swift; sourceTree = "<group>"; };
 		97605D6F6CE500C6370B2C6D /* Pods-ScrollableHeader.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScrollableHeader.debug.xcconfig"; path = "Target Support Files/Pods-ScrollableHeader/Pods-ScrollableHeader.debug.xcconfig"; sourceTree = "<group>"; };
 		E4111BD697B52F500F001740 /* Pods_ScrollableHeader.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScrollableHeader.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -80,6 +82,7 @@
 				6B8EB380246678A500290272 /* SceneDelegate.swift */,
 				6B8EB382246678A500290272 /* ViewController.swift */,
 				6B8EB39224667A5C00290272 /* ContentView.swift */,
+				6B8EB3982467BEE800290272 /* HeaderViewModel.swift */,
 				6B8EB39424667AA000290272 /* HeaderView.swift */,
 				6B8EB39624667E3600290272 /* HeaderItemCell.swift */,
 				6B8EB387246678A600290272 /* Assets.xcassets */,
@@ -215,6 +218,7 @@
 				6B8EB383246678A500290272 /* ViewController.swift in Sources */,
 				6B8EB37F246678A500290272 /* AppDelegate.swift in Sources */,
 				6B8EB39724667E3600290272 /* HeaderItemCell.swift in Sources */,
+				6B8EB3992467BEE800290272 /* HeaderViewModel.swift in Sources */,
 				6B8EB39324667A5C00290272 /* ContentView.swift in Sources */,
 				6B8EB381246678A500290272 /* SceneDelegate.swift in Sources */,
 			);

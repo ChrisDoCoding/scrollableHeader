@@ -44,8 +44,4 @@ class HeaderItemCell: UICollectionViewCell {
     func initCell() {
         label.text = ""
     }
-
-    func configureCell() {
-        
-    }
 }
